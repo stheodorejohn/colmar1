@@ -1,0 +1,315 @@
+* {
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.super_container{
+    width: 100%;
+    overflow: hidden;
+}
+
+/* For Tags */
+
+nav {
+
+    height: 64px;
+}
+
+
+header a:hover {
+    text-decoration: none;
+}
+
+header ul {
+    list-style-type: none;
+
+}
+
+header span span {
+    margin-right: 16px;
+}
+
+header span span:last-child {
+
+    margin-right: 24px;
+}
+
+
+
+
+
+main {
+    /* background: pink; */
+    /* padding-top: 64px; */
+}
+
+
+
+
+/* For Class's*/
+.nav_row {
+    height: 64px;
+
+}
+
+
+.menu_image {
+    margin-left: 24px;
+
+}
+
+.banner {
+    background-color: #d8d8d8;
+}
+
+
+
+.banner_image {
+
+    padding: 32px 24px 32px 24px;
+
+}
+
+.banner_title {
+    padding-bottom: 32px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.banner_text {
+    padding-bottom: 24px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.banner_button {
+
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+}
+
+.banner_textbox {
+    padding-bottom: 32px;
+    padding-right: 50px;
+}
+
+.banner_mobile {
+    padding-left: 16px;
+}
+
+.banner_desktop {
+    padding-right: 140px;
+}
+
+.information_image {
+    padding: 32px 24px 32px 24px;
+}
+
+.thesis_video{
+    padding:  0px 24px 32px 24px;
+}
+.information_title {
+    /* padding-top: 32px; */
+    padding-left: 24px;
+    padding-top: 0px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.thesis_title{
+    padding-left: 24px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.thesis_title_2{
+    padding-left: 24px;
+    font-size: 28px;
+    font-weight: 600;
+}
+.information_text {
+    padding: 24px;
+    font-size: 18px;
+}
+
+.thesis_text{
+    padding-left: 24px;
+    padding-top: 8px;
+    padding-bottom: 32px;
+    font-size: 18px;
+}
+
+.information_quote {
+    padding-left: 24px;
+    padding-bottom: 32px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+.card_top {
+    padding-top: 32px !important;
+}
+
+.card-title, .card-text {
+
+    margin-bottom: 8px;
+}
+
+
+.keep_practising{
+    background-color:#eeeeee;
+}
+
+.thesis_exhibit{
+    background-color:#eeeeee;
+}
+
+.card_row {
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-bottom: 16px;
+    border: 1px solid #d8d8d8;
+    margin-bottom: 2px;
+}
+
+.card_body {
+    padding-left: 32px;
+
+}
+
+.card-text-bottom {
+    padding-bottom: 32px;
+}
+
+.card_last {
+    background-color: #e2dfdf;
+}
+
+.start_learning_desk{
+    padding-left: 72px;
+      
+    background-color: #d8d8d8;
+
+}
+.start_learning_mobile{
+    padding-left: 72px;
+      
+    background-color: #eeeeee;
+
+}
+
+.start_learning_title{
+    padding-top: 32px;
+    padding-bottom: 32px;
+    text-align: center;
+    
+    font-size: 40px;
+    font-weight: 600;
+
+}
+
+.thesis_title{
+    padding-top: 32px;
+    padding-bottom: 32px;
+    text-align: center;
+    
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.start_learning_title_mobile{
+    padding-top: 32px;
+    padding-bottom: 16px;
+    text-align: center;
+    
+    font-size: 40px;
+    font-weight: 600;
+
+}
+
+
+.card-col{
+     padding-right: 32px;
+     padding-left: 0px;
+     padding-bottom: 32px;
+  
+}
+
+.card_mobile{
+     
+    background-color: #d8d8d8;
+    
+}
+
+.card_parent{
+
+    padding-bottom: 8px ;
+    padding-left: 16px;
+    padding-right: 16px;
+     
+    background-color: #eeeeee;
+    
+}
+
+.card_end{
+
+    padding-bottom: 32px ;
+    padding-left: 16px;
+    padding-right: 16px;
+     
+    
+}
+
+.card-content{
+    height: 400px;
+}
+ 
+.card_desc{
+    padding-bottom: 24px;
+}
+
+.learning_card{
+    padding-left: 72px;
+    padding-right: 72px;
+    padding-bottom: 32px;
+}
+
+.learning_card_start{
+    padding-bottom: 32px;
+    padding-right: 16px;
+     
+    padding-top: 0px;
+}
+
+.learning_mid_card{
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 32px;
+    padding-top: 0px;
+
+}
+
+.learning_end_card{
+    padding-bottom: 32px;
+    padding-right: 0px;
+     padding-left: 16px;
+    padding-top: 0px;
+
+}
+
+
+.thesis_card_text{
+    padding-right: 100px;
+    padding-left: 24px ;
+}
+
+.footer_text{
+    padding-left: 24px;
+    padding-top: 16px;
+    padding-bottom: 30px;
+    background-color: #eeeeee;
+    /* background-color: red;     */
+}
